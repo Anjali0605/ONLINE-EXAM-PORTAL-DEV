@@ -231,11 +231,5 @@ Distributed under the no License.
 ## :handshake: Contact
 
 Anjali Budhwar
-<!-- Acknowledgments -->
-## :gem: Acknowledgements
-Following libraries have been used in this projects.
 
- - [Material UI](https://www.mui.com)
- - [Passport JS](https://www.passportjs.org/)
- - [Awesome Readme Template](https://github.com/Louis3797/awesome-readme-template)
 
