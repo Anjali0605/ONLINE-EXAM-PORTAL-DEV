@@ -127,28 +127,7 @@ Start the frontend client for teacher/student
 
 <b>Note</b> : admin user is created when backend runs first time. default admin (username, password) details are <b>("sysadmin","systemadmin"). addAdminIfNotFound() function of backend/services/admin.js file </b> is for this logic. You can check/modify default admin details from this function.
 
-<!-- Run with Docker -->
-### Run With Docker
 
-build docker images
-
-```bash
-  docker-compose build
-```
-
-Run container and services
-
-```bash
-  docker-compose up
-```
-
-Use following paths 
-
-```bash
-  Backend server : localhost:5000/
-  Admin Frontend : localhost:3100/
-  User  Frontend : localhost:3200/
-```
 
 
 
